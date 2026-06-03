@@ -1,5 +1,5 @@
 # cybersec-javier
-# 🛡️ Portfolio — [Javier Emmanuel Vasquez Garcia]
+# 🛡️ Portfolio — Javier Emmanuel Vasquez Garcia
 **Técnico en formación** • Ciberseguridad • Grupo 2026
 
 ---
